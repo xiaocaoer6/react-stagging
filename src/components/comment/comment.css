@@ -1,0 +1,8 @@
+.commentContainer {
+  width: 65%;
+  min-width: 400px;
+}
+.title {
+  font-size: 15px;
+  font-weight: 700;
+}

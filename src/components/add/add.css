@@ -1,0 +1,22 @@
+.add-container {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  min-height: 350px;
+  max-height: 400px;
+  /* background-color: pink; */
+  justify-content:space-around;
+}
+.add-container .name span {
+  display: block;
+  font-size: 15px;
+  font-weight: 700;
+}
+.add-container .words span {
+  display: block;
+  font-size: 15px;
+  font-weight: 700;
+}
+.add-container .submit {
+  max-width: 310px;
+}

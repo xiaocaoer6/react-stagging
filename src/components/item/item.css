@@ -1,0 +1,22 @@
+.itemContainer {
+  position: relative;
+  min-height: 94px;
+  padding: 10px 15px;
+  width: 100%;
+  border: 1px solid #eeeeee;
+  margin-bottom: 8px;
+}
+
+.itemContainer h4 {
+  color: #333;
+  font-size: 22px;
+}
+
+.itemContainer p {
+  margin-left: 20px;
+}
+.delete {
+  position: absolute;
+  right: 5px;
+  top: 3px;
+}
